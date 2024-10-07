@@ -1,0 +1,241 @@
+Player_id,Player,Team,Matches,Innings,Not Out,Runs,Highest Score,Average,Batting S/R,Sixes,Fours,Fifties,Ducks,Batting Position
+1,Rohit Sharma,India,8,8,1,257,92,36.71,156.7,15,24,3,0,1
+2,Hardik Pandya,India,8,6,3,144,50*,48,151.57,9,11,1,0,5
+4,Virat Kohli,India,8,8,0,151,76,18.87,112.68,7,8,1,2,2
+5,Suryakumar Yadav,India,8,8,1,199,53,28.42,135.37,10,15,2,0,4
+6,Rishabh Pant,India,8,8,1,171,42,24.42,127.61,6,19,0,1,3
+8,Shivam Dube,India,8,8,2,133,34,22.16,114.65,7,6,0,1,7
+9,Ravindra Jadeja,India,8,5,2,35,17*,11.66,159.09,1,3,0,1,6
+10,Axar Patel,India,8,5,1,92,47,23,139.39,6,5,0,0,8
+13,Arshdeep Singh,India,8,3,2,12,9,12,75,0,1,0,0,9
+14,Jasprit Bumrah,India,8,1,0,0,0,0,0,0,0,0,1,11
+15,Mohammed Siraj,India,3,1,1,7,7*,0,100,0,0,0,0,10
+16,Rashid Khan,Afghanistan,8,7,2,57,19*,11.4,123.91,4,5,0,0,8
+17,Rahmanullah Gurbaz,Afghanistan,8,8,0,281,80,35.12,124.33,16,18,3,2,1
+19,Ibrahim Zadran,Afghanistan,8,8,0,231,70,28.87,107.44,4,25,2,1,2
+20,Azmatullah Omarzai,Afghanistan,8,8,0,111,26,13.87,108.82,4,7,0,0,4
+21,Najibullah Zadran,Afghanistan,5,4,1,22,19,7.33,95.65,2,0,0,1,6
+22,Mohammad Nabi,Afghanistan,8,8,3,56,16*,11.2,80,1,3,0,2,5
+23,Gulbadin Naib,Afghanistan,8,8,1,90,49*,12.85,104.65,3,9,0,2,3
+24,Karim Janat,Afghanistan,7,5,2,43,14,14.33,113.15,2,2,0,0,7
+25,Nangeyalia Kharote,Afghanistan,3,2,1,3,2,3,37.5,0,0,0,0,6
+27,Noor Ahmad,Afghanistan,7,3,0,14,12,4.66,58.33,1,1,0,1,9
+28,Naveen-ul-Haq,Afghanistan,8,3,0,6,4,2,40,0,1,0,1,10
+29,Fazalhaq Farooqi,Afghanistan,8,3,3,6,4*,0,120,0,1,0,0,11
+31,Mitchell Marsh,Australia,7,7,1,125,37,20.83,116.82,5,13,0,0,3
+32,Ashton Agar,Australia,2,1,0,2,2,2,40,0,0,0,0,10
+33,Pat Cummins,Australia,5,3,1,14,11*,7,82.35,0,0,0,1,8
+34,Tim David,Australia,7,5,1,61,24*,15.25,148.78,3,5,0,0,6
+37,Josh Hazlewood,Australia,6,1,1,5,5*,0,71.42,0,0,0,0,11
+38,Travis Head,Australia,7,7,1,255,76,42.5,158.38,15,26,2,1,2
+40,Glenn Maxwell,Australia,7,6,1,132,59,26.4,141.93,7,12,1,1,4
+41,Mitchell Starc,Australia,5,2,2,4,4*,0,57.14,0,0,0,0,9
+42,Marcus Stoinis,Australia,7,5,1,169,67*,42.25,164.07,10,14,2,0,5
+43,Matthew Wade,Australia,7,4,2,27,17*,13.5,112.5,0,3,0,0,7
+44,David Warner,Australia,7,7,1,178,56,29.66,139.06,9,17,2,0,1
+45,Adam Zampa,Australia,7,1,0,9,9,9,128.57,0,1,0,0,10
+46,Najmul Hossain Shanto,Bangladesh,7,7,0,112,41,16,95.72,5,7,0,0,3
+47,Taskin Ahmed,Bangladesh,6,5,3,28,13*,14,84.84,0,3,0,1,9
+48,Litton Das,Bangladesh,7,7,1,139,54*,23.16,93.28,3,12,1,0,1
+49,Soumya Sarkar,Bangladesh,2,2,0,10,10,5,83.33,0,1,0,1,2
+50,Tanzid Hasan,Bangladesh,7,7,0,76,35,10.85,96.2,1,11,0,3,2
+51,Shakib Al Hasan,Bangladesh,7,7,1,111,64*,18.5,106.73,1,12,1,1,5
+52,Towhid Hridoy,Bangladesh,7,7,0,153,40,21.85,128.57,8,9,0,0,4
+53,Mahmudullah Riyad,Bangladesh,7,7,1,95,25,15.83,94.05,3,8,0,0,6
+54,Jaker Ali,Bangladesh,4,4,1,35,14*,11.66,76.08,0,3,0,0,7
+56,Mahedi Hasan Miraz,Bangladesh,2,2,1,5,5*,5,100,0,1,0,1,9
+57,Rishad Hossain,Bangladesh,7,6,1,40,24,8,153.84,4,2,0,1,8
+58,Mustafizur Rahman,Bangladesh,7,2,0,3,3,1.5,60,0,0,0,1,11
+60,Tanzim Hasan Sakib,Bangladesh,7,5,3,12,4*,6,52.17,0,0,0,0,10
+61,Saad Bin Zafar,Canada,3,2,1,11,10,11,50,0,1,0,0,8
+62,Aaron Johnson,Canada,3,3,0,89,52,29.66,121.91,4,12,1,0,1
+63,Dillon Heyliger,Canada,3,3,2,10,9*,10,71.42,0,1,0,1,7
+64,Dhruv S Bajwa,Canada,2,2,0,18,11,9,128.57,1,2,0,0,4
+68,Kaleem Sana,Canada,3,1,1,13,13*,0,92.85,1,0,0,0,9
+70,Navneet Dhaliwal,Canada,3,3,0,71,61,23.66,116.39,3,8,1,0,2
+71,Nicholas Kirton,Canada,3,3,0,101,51,33.66,140.27,4,6,1,0,5
+72,Pargat Singh,Canada,3,3,0,25,18,8.33,92.59,0,2,0,0,3
+73,Ravinderpal Singh,Canada,1,1,0,0,0,0,0,0,0,0,1,11
+75,S Movva,Canada,3,3,1,71,37,35.5,116.39,2,5,0,0,6
+76,Jos Buttler,England,8,7,2,214,83*,42.8,158.51,10,22,1,1,2
+77,Moeen Ali,England,8,5,0,71,25,14.2,139.21,5,2,0,0,3
+78,Jofra Archer,England,8,2,1,22,21,22,129.41,2,1,0,0,9
+79,Jonny Bairstow,England,8,6,2,110,48*,27.5,134.14,4,11,0,1,4
+80,Harry Brook,England,8,4,2,145,53,72.5,157.6,2,16,1,0,5
+81,Sam Curran,England,5,2,1,12,10*,12,109.09,0,1,0,0,6
+84,Will Jacks,England,3,2,0,15,10,7.5,88.23,0,2,0,0,4
+85,Chris Jordan,England,5,2,1,2,1*,2,25,0,0,0,0,8
+86,Liam Livingstone,England,8,4,0,72,33,18,146.93,5,3,0,0,7
+87,Adil Rashid,England,8,1,0,2,2,2,100,0,0,0,0,10
+88,Phil Salt,England,8,7,2,188,87*,37.6,159.32,10,16,1,0,1
+89,Reece Topley,England,6,1,1,3,3*,0,100,0,0,0,0,11
+91,Paul Stirling,Ireland,3,3,0,12,9,4,48,0,1,0,0,2
+92,Andy Balbirnie,Ireland,3,3,0,22,17,7.33,68.75,0,2,0,1,1
+93,Harry Tector,Ireland,3,3,0,11,7,3.66,40.74,0,0,0,1,4
+95,Lachlan Tucker,Ireland,3,3,0,22,10,7.33,73.33,0,0,0,0,3
+97,Curtis Campher,Ireland,3,3,0,23,12,7.66,79.31,1,2,0,0,5
+98,Gareth Delany,Ireland,3,3,0,60,31,20,150,5,3,0,0,7
+99,George Dockrell,Ireland,3,3,1,44,30*,22,115.78,1,4,0,0,6
+100,Mark Adair,Ireland,3,3,0,52,34,17.33,115.55,1,5,0,0,7
+101,Joshua Little,Ireland,3,2,1,36,22*,36,116.12,1,4,0,0,10
+102,Barry McCarthy,Ireland,3,3,1,4,2*,2,25,0,0,0,1,8
+105,Ben White,Ireland,2,2,2,7,5*,0,29.16,0,0,0,0,11
+106,Gerhard Erasmus,Namibia,4,4,1,102,52,34,109.67,3,10,1,0,4
+107,Zane Green,Namibia,4,3,0,29,28,9.66,87.87,1,1,0,1,8
+108,Marnus van Lingen,Namibia,3,3,0,43,33,14.33,104.87,3,3,0,1,1
+110,Ramon Trumpelmann,Namibia,4,2,0,8,7,4,88.88,0,0,0,0,9
+111,Josh Brassell,Namibia,2,1,1,2,2*,0,66.66,0,0,0,0,11
+113,Tangeni Lungameni,Namibia,2,1,1,0,0*,0,0,0,0,0,0,11
+114,Nicol Davin,Namibia,4,4,0,64,24,16,96.96,2,7,0,0,2
+115,JJ Smit,Namibia,4,4,1,22,11,7.33,73.33,1,1,0,0,5
+116,Jan Frylinck,Namibia,4,3,0,58,45,19.33,85.29,0,8,0,0,6
+117,JP Kotze,Namibia,2,1,0,0,0,0,0,0,0,0,1,7
+118,David Wiese,Namibia,4,4,1,51,27,17,127.5,4,2,0,0,3
+119,Bernard Scholtz,Namibia,4,2,1,6,6*,6,100,0,0,0,1,10
+120,Martin Kruger,Namibia,2,2,1,3,2,3,33.33,0,0,0,0,10
+122,Rohit Paudel,Nepal,3,3,0,36,35,12,80,0,5,0,1,3
+123,Aasif Sheikh,Nepal,3,3,0,63,42,21,88.73,1,9,0,0,2
+124,Abhinav Kumar Sah,Nepal,3,3,0,38,27,12.66,100,0,0,0,1,4
+125,Kushal Bhurtel,Nepal,3,3,0,24,13,8,61.53,1,3,0,0,1
+126,Kushal Malla,Nepal,3,3,0,37,27,12.33,71.15,1,2,0,0,5
+127,Dipendra Singh Airee,Nepal,3,3,0,32,25,10.66,66.66,1,2,0,0,5
+129,Karan KC,Nepal,2,1,0,17,17,17,141.66,2,0,0,0,9
+129,Karan KC,Oman,3,3,0,16,9,5.33,48.48,0,0,0,1,10
+130,Sompal Kami,Nepal,3,3,1,8,8*,4,72.72,0,0,0,2,8
+132,Sundeep Jora,Nepal,1,1,0,1,1,1,12.5,0,0,0,0,11
+133,Gulshan Jha,Nepal,3,3,0,20,14,6.66,80,1,1,0,1,7
+134,Abinash Bohara,Nepal,3,2,0,0,0,0,0,0,0,0,2,11
+135,Sunam Gautam Dhakal,Nepal,1,1,1,0,0*,0,0,0,0,0,0,10
+137,Scott Edwards,Netherlands,4,4,0,71,31,17.75,110.93,2,5,0,0,5
+138,Aryan Dutt,Netherlands,2,2,1,25,15*,25,125,1,2,0,0,9
+139,Bas de Leede,Netherlands,4,4,1,20,11*,6.66,60.6,0,1,0,1,6
+141,Logan van Beek,Netherlands,4,3,0,25,23,8.33,96.15,0,3,0,1,7
+142,Max O'Dowd,Netherlands,4,4,1,79,54*,26.33,101.28,2,7,1,0,2
+143,Michael Levitt,Netherlands,4,4,0,50,31,12.5,111.11,4,4,0,1,1
+144,Paul van Meekeren,Netherlands,4,2,1,4,3,4,44.44,0,0,0,0,10
+146,Sybrand Engelbrecht,Netherlands,4,4,0,98,40,24.5,106.52,3,6,0,0,3
+148,Tim Pringle,Netherlands,4,3,0,3,2,1,18.75,0,0,0,1,8
+149,Vikramjit Singh,Netherlands,4,4,0,67,26,16.75,94.36,3,5,0,0,3
+150,Vivian Kingma,Netherlands,4,1,1,1,1*,0,100,0,0,0,0,11
+152,Kane Williamson,New Zealand,4,3,1,28,18*,14,87.5,0,3,0,0,4
+153,Finn Allen,New Zealand,4,4,0,35,26,8.75,81.39,1,4,0,2,1
+154,Devon Conway,New Zealand,4,4,1,70,35,23.33,107.69,3,7,0,0,2
+155,Daryl Mitchell,New Zealand,4,3,1,36,19*,18,120,0,5,0,0,5
+156,Glenn Phillips,New Zealand,4,2,0,58,40,29,113.72,2,5,0,0,6
+157,Mitchell Santner,New Zealand,4,2,1,25,21*,25,125,3,0,0,0,7
+158,Jimmy Neesham,New Zealand,2,1,0,10,10,10,90.9,1,0,0,0,7
+159,Tim Southee,New Zealand,3,1,0,0,0,0,0,0,0,0,1,9
+160,Lockie Ferguson,New Zealand,4,2,1,2,2,2,40,0,0,0,0,10
+162,Trent Boult,New Zealand,4,2,1,10,7,10,90.9,1,0,0,0,11
+163,Mark Chapman,New Zealand,1,1,0,4,4,4,57.14,0,0,0,0,10
+167,Zeeshan Maqsood,Oman,4,4,0,27,22,6.75,75,0,4,0,0,4
+168,Aqib Ilyas,Oman,4,4,0,42,18,10.5,120,2,5,0,1,3
+170,Ayaan Khan,Oman,4,4,1,93,41*,31,97.89,3,6,0,0,6
+173,Naseem Khushi,Oman,2,2,0,16,10,8,106.66,1,1,0,0,2
+174,Kaleemullah,Oman,4,3,1,13,6*,6.5,108.33,0,1,0,0,10
+175,Bilal Khan,Oman,4,3,3,2,1*,0,50,0,0,0,0,11
+176,Fayyaz Butt,Oman,1,1,0,2,2,2,28.57,0,0,0,0,9
+177,Mohammad Nadeem,Oman,1,1,0,6,6,6,60,0,0,0,0,9
+182,Babar Azam,Pakistan,4,4,1,122,44,40.66,101.66,3,8,0,0,3
+183,Mohammad Rizwan,Pakistan,4,4,1,110,53*,36.66,90.9,3,5,1,0,1
+184,Fakhar Zaman,Pakistan,4,4,0,33,13,8.25,110,2,1,0,0,4
+188,Shadab Khan,Pakistan,4,3,0,44,40,14.66,129.41,3,1,0,1,6
+189,Imad Wasim,Pakistan,3,2,0,19,15,9.5,65.51,0,2,0,0,7
+191,Shaheen Shah Afridi,Pakistan,4,3,3,36,23*,0,163.63,4,1,0,0,9
+192,Haris Rauf,Pakistan,4,1,1,3,3*,0,100,0,0,0,0,10
+197,Assad Vala,Papua New Guinea,4,4,0,30,21,7.5,71.42,1,3,0,1,2
+198,Tony Ura,Papua New Guinea,4,4,0,16,11,4,51.61,0,1,0,0,1
+199,Lega Siaka,Papua New Guinea,3,3,0,13,12,4.33,65,0,1,0,1,8
+200,Charles Amini,Papua New Guinea,3,3,0,34,17,11.33,64.15,0,2,0,0,3
+201,Sese Bau,Papua New Guinea,4,4,0,67,50,16.75,83.75,1,8,1,1,4
+202,Kiplin Doriga,Papua New Guinea,4,4,1,71,27*,23.66,92.2,1,6,0,0,7
+203,Norman Vanua,Papua New Guinea,3,3,0,19,14,6.33,63.33,1,1,0,1,8
+204,Chad Soper,Papua New Guinea,4,4,0,24,10,6,46.15,0,1,0,0,6
+210,Hiri Hiri,Papua New Guinea,4,4,0,25,15,6.25,64.1,0,3,0,0,5
+212,Richie Berrington,Scotland,4,3,2,102,47*,102,139.72,5,4,0,0,4
+215,Michael Leask,Scotland,4,2,0,40,35,20,160,4,0,0,0,6
+216,Chris Greaves,Scotland,4,2,2,13,9*,0,100,0,0,0,0,7
+217,Matthew Cross,Scotland,4,3,1,36,18,18,150,3,1,0,0,5
+228,Quinton de Kock,South Africa,9,9,0,243,74,27,140.46,13,21,2,1,2
+230,Aiden Markram,South Africa,9,9,1,123,46,15.37,100.81,2,14,0,1,3
+231,David Miller,South Africa,9,8,2,169,59*,28.16,102.42,8,10,1,1,6
+232,Heinrich Klaasen,South Africa,9,8,2,190,52,31.66,126.66,13,9,1,0,5
+233,Marco Jansen,South Africa,9,6,2,32,21*,8,96.96,1,1,0,1,7
+234,Keshav Maharaj,South Africa,8,5,4,13,5*,13,54.16,0,1,0,0,8
+235,Kagiso Rabada,South Africa,9,3,1,9,5*,4.5,128.57,0,2,0,1,9
+236,Anrich Nortje,South Africa,9,1,1,1,1*,0,100,0,0,0,0,10
+238,Reeza Hendricks,South Africa,9,9,1,113,43,14.12,87.59,3,11,0,2,1
+242,Dasun Shanaka,Sri Lanka,3,3,0,12,9,4,66.66,0,0,0,1,8
+244,Pathum Nissanka,Sri Lanka,3,3,0,50,47,16.66,131.57,1,7,0,1,1
+245,Dhananjaya de Silva,Sri Lanka,2,2,0,55,34,27.5,105.76,1,4,0,0,4
+246,Charith Asalanka,Sri Lanka,3,3,0,71,46,23.66,139.21,6,1,0,0,6
+247,Wanindu Hasaranga,Sri Lanka,3,3,1,20,20*,10,222.22,2,1,0,2,4
+248,Maheesh Theekshana,Sri Lanka,3,2,1,7,7*,7,36.84,0,1,0,1,9
+254,Bhanuka Rajapaksa,Sri Lanka,3,3,0,75,46,25,111.94,0,0,0,0,3
+257,Brian Masaba,Uganda,4,4,2,4,3*,2,15.38,0,0,0,1,8
+258,Simon Ssesazi,Uganda,4,4,0,9,4,2.25,81.81,0,2,0,1,2
+259,Roger Mukasa,Uganda,3,3,0,0,0,0,0,0,0,0,3,10
+260,Cosmas Kyewuta,Uganda,4,3,1,4,2*,2,28.57,0,0,0,0,11
+261,Dinesh Nakrani,Uganda,4,4,0,10,6,2.5,38.46,0,1,0,2,7
+263,Kenneth Waiswa,Uganda,3,3,1,19,11,9.5,43.18,1,1,0,0,5
+264,Alpesh Ramjani,Uganda,4,4,0,13,8,3.25,54.16,0,0,0,2,4
+265,Frank Nsubuga,Uganda,2,1,0,0,0,0,0,0,0,0,1,7
+266,Henry Ssenyondo,Uganda,1,1,0,0,0,0,0,0,0,0,1,9
+267,Bilal Hassun,Uganda,1,1,0,8,8,8,50,0,1,0,0,5
+268,Robinson Obuya,Uganda,4,4,0,21,14,5.25,58.33,0,0,0,1,3
+269,Riazat Ali Shah,Uganda,4,4,0,49,33,12.25,44.14,0,1,0,0,6
+270,Juma Miyaji,Uganda,3,3,1,26,13*,13,70.27,0,0,0,1,10
+273,Aaron Jones,United States of America,6,6,2,162,94*,40.5,135,14,8,1,1,4
+274,Steven Taylor,United States of America,6,6,0,74,24,12.33,90.24,3,7,0,1,1
+275,Corey Anderson,United States of America,6,5,1,66,29,16.5,91.66,3,1,0,0,5
+276,Saurabh Netravalkar,United States of America,6,2,0,0,0,0,0,0,0,0,2,11
+277,Jasdeep Singh,United States of America,4,2,1,4,2*,4,30.76,0,0,0,0,9
+278,Harmeet Singh,United States of America,6,4,0,69,38,17.25,138,5,4,0,1,7
+279,Nosthush Kenjige,United States of America,4,2,0,1,1,0.5,25,0,0,0,1,10
+282,Andries Gous,United States of America,6,6,1,219,80*,43.8,151.03,11,20,2,0,2
+283,Shayan Jahangir,United States of America,2,2,0,3,3,1.5,30,0,0,0,1,1
+284,Ali Khan,United States of America,6,2,1,14,14*,14,175,1,1,0,1,9
+286,Milind Kumar,United States of America,2,2,0,23,19,11.5,85.18,0,1,0,0,6
+287,Rovman Powell,West Indies,7,6,0,102,36,17,143.66,8,4,0,0,4
+288,Alzarri Joseph,West Indies,7,2,1,17,11*,17,130.76,1,1,0,0,10
+289,Johnson Charles,West Indies,6,6,0,140,44,23.33,113.82,3,18,0,2,2
+290,Roston Chase,West Indies,6,3,1,94,52,47,130.55,4,7,1,1,8
+293,Shai Hope,West Indies,3,3,1,107,82*,53.5,187.71,10,4,1,1,2
+294,Akeal Hosein,West Indies,7,2,0,21,15,10.5,75,1,1,0,0,9
+296,Brandon King,West Indies,5,5,1,86,34,21.5,126.47,2,13,0,0,1
+297,Gudakesh Motie,West Indies,7,2,2,4,4*,0,50,0,1,0,0,11
+298,Nicholas Pooran,West Indies,7,7,1,228,98,38,146.15,17,15,1,0,3
+299,Andre Russell,West Indies,7,6,3,78,30*,26,165.95,4,8,0,0,5
+300,Sherfane Rutherford,West Indies,7,6,3,121,68*,40.33,147.56,9,5,1,1,6
+302,Sandeep Lamichhane,Nepal,2,1,1,0,0*,0,0,0,0,0,0,10
+303,Rachin Ravindra,New Zealand,3,3,1,17,10,8.5,68,0,0,0,0,3
+304,Matt Henry,New Zealand,1,1,0,12,12,12,70.58,1,0,0,0,9
+305,Pavan Sukhdev Athavale,Oman,3,3,0,59,54,19.66,134.09,2,6,1,1,1
+306,Khalid Kail,Oman,4,4,0,48,34,12,78.68,1,2,0,0,5
+307,Mehran Khan,Oman,4,4,0,47,27,11.75,130.55,2,4,0,1,7
+308,Shakeel Ahmed,Oman,3,3,1,25,11,12.5,119.04,0,3,0,0,9
+309,Iftikhar Ahmed,Pakistan,2,2,0,23,18,11.5,100,0,3,0,0,8
+310,Saim Ayub,Pakistan,2,2,0,23,17,11.5,79.31,1,2,0,0,2
+311,Usman Khan Shinwari,Pakistan,4,4,1,20,13,6.66,90.9,0,1,0,0,5
+312,Abbas Afridi,Pakistan,1,1,0,17,17,17,80.95,1,1,0,0,8
+313,Naseem Shah,Pakistan,3,1,1,10,10*,0,250,0,2,0,0,9
+314,Azam Khan,Pakistan,1,1,0,0,0,0,0,0,0,0,1,11
+315,Anamul Haque Bijoy,Papua New Guinea,4,4,0,21,13,5.25,65.62,0,0,0,1,7
+316,Jason Kariko,Papua New Guinea,3,2,2,4,4*,0,44.44,0,0,0,0,9
+317,Sema Kamea,Papua New Guinea,2,2,1,3,2,3,75,0,0,0,0,11
+318,Kila Vagi Morea,Papua New Guinea,2,2,1,2,2*,2,40,0,0,0,1,10
+319,Ben McMullen,Scotland,4,3,1,140,61*,70,170.73,8,13,2,0,3
+320,Hamza Tariq,Scotland,4,4,1,124,41*,41.33,139.32,9,8,0,0,5
+321,Malan Jones,Scotland,4,4,1,89,45*,29.66,134.84,5,8,0,0,2
+322,Terrell Stubbs,South Africa,9,8,3,165,33,33,101.22,3,13,0,1,4
+323,Angelo Mathews,Sri Lanka,3,3,1,62,30*,31,124,4,2,0,0,7
+324,Pulina Tharanga Mendis,Sri Lanka,3,3,0,32,17,10.66,80,0,0,0,0,2
+325,Malinda Pushpakumara,Sri Lanka,3,2,1,0,0*,0,0,0,0,0,1,10
+326,Nuwan Thushara,Sri Lanka,3,2,1,0,0*,0,0,0,0,0,1,11
+327,Sadeera Samarawickrama,Sri Lanka,1,1,0,0,0,0,0,0,0,0,1,5
+328,Fali Akeleam,Uganda,1,1,0,9,9,9,69.23,0,0,0,0,9
+329,Nizakat Khan,United States of America,6,5,1,99,30,24.75,115.11,4,6,0,0,10
+330,Munir Dar,United States of America,2,2,0,66,50,33,122.22,0,0,1,0,8
+331,Shem Ngoche,United States of America,4,3,2,29,18,29,107.4,0,0,0,0,8
+332,Kyle Mayers,West Indies,1,1,0,35,35,35,102.94,2,3,0,0,1
+333,Raymon Reifer,West Indies,4,3,2,23,13,23,92,0,0,0,0,6
